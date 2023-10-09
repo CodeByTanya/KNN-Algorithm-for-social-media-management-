@@ -1,4 +1,4 @@
-# KNN-Algorithm-for-social-media-management-
+# KNN-Algorithm-for-social-media-management
 This project is a walkthrough of a simple KNN model in an
 attempt to strategize a basic ad-targeting campaign for a social
 media network/website. One of our sponsor's commercials seems to
